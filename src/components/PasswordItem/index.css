@@ -1,0 +1,67 @@
+.purple {
+  background-color: #7683cb;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-yellow {
+  background-color: #f59e0b;
+}
+
+.dark-yellow {
+  background-color: #f97316;
+}
+
+.green {
+  background-color: #10b981;
+}
+
+.light-green {
+  background-color: #14b8a6;
+}
+
+.profile-letter {
+  border-radius: 95px;
+  font-size: 12px;
+  font-weight: 700;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 13px;
+  padding-bottom: 12px;
+  color: #ffffff;
+}
+
+.description {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 12px;
+}
+
+.list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  list-style-type: none;
+  border: 1px solid #b6c3ca;
+  width: 190px;
+  height: 70px;
+}
+
+.delete-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.delete-btn {
+  background-color: transparent;
+  border: none;
+}
+
+.stars-img {
+  height: 20px;
+  width: 80px;
+  background-color: transparent;
+}
